@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://voyage-chocolatine-41362.herokuapp.com/",
+  "change_calculator": "https://classique-bastille-82710.herokuapp.com/",
+  "mortgage_calculator": "https://hf-mortgage-calcualtor.herokuapp.com/",
+  "top_spots": "https://hf-san-diego-top-spots.herokuapp.com/",
+  "vstda": "https://hf-reac100t-vstda.herokuapp.com/"
 }
